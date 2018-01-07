@@ -1,0 +1,5 @@
+[https://segmentfault.com/a/1190000002596600](https://segmentfault.com/a/1190000002596600)      
+[https://stackoverflow.com/questions/23590502/difference-between-configurable-attribute-and-writable-of-object-data-proprties](https://stackoverflow.com/questions/23590502/difference-between-configurable-attribute-and-writable-of-object-data-proprties)      
+[http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/)    
+[https://github.com/happymishra/JavaScriptTutorials/blob/master/Part2/Prototypes.md](https://github.com/happymishra/JavaScriptTutorials/blob/master/Part2/Prototypes.md)   
+[https://hackernoon.com/prototypes-in-javascript-5bba2990e04b](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)     

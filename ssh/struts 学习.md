@@ -250,7 +250,7 @@ action 标签中的子标签
 		<action name="order_*" class="cn.itcast.demo2.OrderAction" method="{1}"></action>
 	{1}代表 * 的取值     
 	
-	具体理解：在JSP页面发送请求，http://localhost/struts2_01/order_add.action，配置文件中的order_\*可以匹配该请求，\*就相当于变成了add，method属性的值使用{1}来代替，{1}就表示的是第一个*号的位置！！所以method的值就等于了add，那么就找到Action类中的add方法，那么add方法就执行了！
+	具体理解：在JSP页面发送请求，[http://localhost/struts2_01/order_add.action](http://localhost/struts2_01/order_add.action)，  配置文件中的order_\*可以匹配该请求，\*就相当于变成了add，method属性的值使用{1}来代替，{1}就表示的是第一个*号的位置！！所以method的值就等于了add，那么就找到Action类中的add方法，那么add方法就执行了！
 3. 动态方法访问的方式（有的开发中也会使用这种方式）   
 	将下面的常量设置为true   
 		
